@@ -1,0 +1,8 @@
+.vscode/
+.DS_Store
+node_modules/
+dist/
+BEFORE_USE.md
+.temp
+.cache
+cache
