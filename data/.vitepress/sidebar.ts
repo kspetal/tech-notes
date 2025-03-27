@@ -19,6 +19,17 @@ export const sidebar = {
       ]
     }
   ],
+  '/linux/': [
+    {
+      text: 'Linux',
+      collapsed: false,
+      items: [
+        { text: '索引', link: '/mysql/' },
+        { text: '优化', link: '/mysql/optimize' },
+        { text: 'Explain', link: '/mysql/explain' },
+      ]
+    }
+  ],
   '/example/': [
     {
       text: '示例',
