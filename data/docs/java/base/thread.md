@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## 一、线程的生命周期(JDK1.5^)
 
-![生命周期](./images/thread-life.png)
+![生命周期](../images/thread-life.png)
 
 1. **New（新建）**: 线程刚被创建，但是并未启动。还没调用 `start()` 方法。
 
